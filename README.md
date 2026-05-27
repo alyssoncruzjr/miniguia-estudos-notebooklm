@@ -53,6 +53,13 @@ O NotebookLM é uma ferramenta baseada em inteligência artificial voltada para 
 - Dependência da qualidade do material utilizado
 - Pode exigir revisão humana
 
+## Tecnologias relacionadas
+
+- NotebookLM
+- Inteligência Artificial
+- Organização do Conhecimento
+- Estudos Técnicos
+
 ## Conclusão
 
 O NotebookLM pode ser um aliado em estudos, produtividade e organização de conhecimento, desde que utilizado com senso crítico e validação das informações.
